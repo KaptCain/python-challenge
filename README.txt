@@ -12,4 +12,4 @@ When you run this code the results will be put in the Analysis folder for each r
 
 The CSV files are located in the Resources folder for each respective program.
 
-In the Analysis folder I created a txt file that just says default in order for the Analysis folder to go through to github
+In the Analysis folder I created a txt file that just says default in order for the Analysis folder to go through to GitHub.
